@@ -1,0 +1,130 @@
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.exe
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.deps.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.runtimeconfig.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.pdb
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.AssemblyInfo.cs
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.AspNet_Programm#1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNet_Programm#1.props
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNet_Programm#1.props
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNet_Programm#1.props
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\scopedcss\bundle\AspNet_Programm#1.styles.css
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\refint\AspNet_Programm#1.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.pdb
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.genruntimeconfig.cache
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\ref\AspNet_Programm#1.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\jjjjjjjj\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.csproj.CopyComplete
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\appsettings.Development.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\appsettings.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.exe
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.deps.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.runtimeconfig.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.pdb
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.csproj.AssemblyReference.cache
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.AssemblyInfoInputs.cache
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.AssemblyInfo.cs
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.csproj.CoreCompileInputs.cache
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.MvcApplicationPartsAssemblyInfo.cache
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.AspNet_Programm#1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNet_Programm#1.props
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNet_Programm#1.props
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNet_Programm#1.props
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\scopedcss\bundle\AspNet_Programm#1.styles.css
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.csproj.CopyComplete
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\refint\AspNet_Programm#1.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.pdb
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\AspNet_Programm#1.genruntimeconfig.cache
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\obj\Debug\net6.0\ref\AspNet_Programm#1.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\AspNet_Programm#1.staticwebassets.runtime.json
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\RApplicationDbContext.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\RIdentity.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Humanizer.dll
+E:\Домашние задания\Программирование\AspNet_Programm#1\AspNet_Programm#1\AspNet_Programm#1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

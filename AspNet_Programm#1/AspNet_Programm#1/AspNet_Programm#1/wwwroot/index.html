@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="script.js"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Список отелей</title>
+    <link href="https://stackpath.bootstrapcdn.com/
+bootstrap/4.4.0/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body onload="InitialFunction();">
+    <h2>Список отелей</h2>
+    <form name="hotelForm">
+        <input type="hidden" name="id" value="0" />
+        <div class="form-group col-md-5">
+            <label for="name">Наименование:</label>
+            <input class="form-control" name="name" />
+        </div>
+        <div class="form-group col-md-5">
+            <label for="countOfStars">Количество звезд:</label>
+            <input class="form-control" name="countOfStars" type="number" />
+        </div>
+        <div class="form-group col-md-5">
+            <label for="countryCode">Код страны:</label>
+            <input class="form-control" name="countryCode" />
+        </div>
+        <div class="panel-body">
+            <button type="submit" id="submit" class="btn btnprimary">Сохранить</button>
+            <a id="reset" class="btn btn-primary">Сбросить</a>
+        </div>
+    </form>
+    <table class="table table-condensed table-striped col-md-6">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Наименование</th>
+                <th>Количество звезд</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <div>2022 Заид Мингалиев</div>
+</body>
+</html>
